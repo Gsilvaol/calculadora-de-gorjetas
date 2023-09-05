@@ -22,5 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Calculadora foi desenvolvida para mostrar o poder que a linguagem JavaScript tem nas aplicações. 
 
-- [visite o projeto online] (https://gsilvaol.github.io/nlw-setup/)
+- [visite o projeto online] (https://gsilvaol.github.io/calculadora-de-gorjetas/)
 
