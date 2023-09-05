@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora de Gorjetas </h1>
 
 <p align="center">
-Calculadora de gorjetas desenvolvido pelo Linkedin Learning <br/>
+Calculadora de gorjetas desenvolvido no evento Start da Programação. <br/>
 </p>
 
 <p align="center">
